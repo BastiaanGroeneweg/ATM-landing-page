@@ -1,0 +1,114 @@
+body {
+	font-family: Montserrat;
+}
+
+/* title-page */
+
+#title {
+	background-color: #09a76d;
+	color: #fff;
+	line-height: 2rem;
+	padding-bottom: 50px;
+	margin-bottom: 50px;
+}
+#title button {
+	margin-top: 25px;
+}
+a {
+	color: #fff;
+	text-decoration: none;
+}
+a:hover {
+	color: #09a76d;
+}
+h1 {
+	font-family: Montserrat;
+	font-size: 3rem;
+	line-height: 1.5;
+}
+
+.container-fluid {
+	padding: 3% 12%;
+}
+
+.slogan {
+	font-weight: 100;
+}
+
+/* Navbar Section */
+
+.navbar {
+	padding-bottom: 5rem;
+}
+.navbar-brand {
+	font-family: Lato;
+	font-size: 2.5rem;
+	font-weight: 400;
+}
+.nav-item {
+	padding: 0 18px;
+}
+
+.title-image {
+	width: 60%;
+	margin-left: 180px;
+	margin-top: 30px;
+}
+.dropdown-item {
+	color: #09a76d;
+}
+.dropdown-item:hover {
+	color: #09a76d;
+	background-color: #a8eed4;
+}
+/* Feature section */
+
+#features {
+	color: #09a76d;
+	padding: 3% 12%;
+	text-align: center;
+}
+#features p {
+	color: #a8eed4;
+}
+
+#features h4 {
+	font-weight: 500;
+}
+
+.feature-item {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#features i {
+	margin-bottom: 10px;
+}
+
+#features i:hover {
+	color: #a8eed4;
+}
+
+/* More-info Section */
+
+#more-info {
+	background-color: #09a76d;
+	color: #fff;
+	padding: 7% 15%;
+}
+#more-info p {
+	padding-right: 40%;
+}
+
+#more-info a:hover {
+	color: #a8eed4;
+}
+
+/* Footer */
+
+#footer {
+	padding: 1%;
+	text-align: center;
+	background-color: #09a76d;
+	color: #a8eed4;
+}
